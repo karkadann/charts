@@ -1,8 +1,8 @@
-name: immich-1.111
+name: immich
 description: Immich is a self-hosted photo and video backup solution directly from
   your mobile phone.
 annotations:
-  title: Immich-1.111
+  title: Immich
 type: application
 version: 4.0.10
 apiVersion: v2
